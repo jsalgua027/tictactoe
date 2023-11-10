@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Escritorio/Examen"
+		},
+		{
+			"name": "EntornoCliente",
+			"path": "../../../EntornoCliente"
+		},
+		{
+			"path": "../../../Dise-oWeb23_24"
+		},
+		{
+			"path": "../../../PHP_BD"
+		},
+		{
+			"path": "../../../../../../opt/lampp/htdocs/Proyectos/Curso23_24PHP"
+		},
+		{
+			"path": "../../../../prueba/HLC"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "EntornoCliente"
+	}
+}
